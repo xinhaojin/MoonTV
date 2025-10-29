@@ -1,5 +1,5 @@
 {
-  "cache_time": 3600,
+  "cache_time": 7200,
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -12,7 +12,7 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
     "bfzy": {
@@ -32,9 +32,9 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "iqiyi": {
-      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -77,29 +77,13 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "ckzy": {
-        "api": "https://www.ckzy1.com/api.php/provide/vod",
-        "name": "CK资源"
+    "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源站"
     },
-    "jkun": {
-        "api": "https://jkunzyapi.com/api.php/provide/vod",
-        "name": "jkun资源"
-    },
-    "bwzy": {
-        "api": "https://api.bwzym3u8.com/api.php/provide/vod",
-        "name": "百万资源"
-    },
-    "souav": {
-        "api": "https://api.souavzy.vip/api.php/provide/vod",
-        "name": "souav资源"
-    },
-    "huangcang": {
-        "api": "https://hsckzy.vip/api.php/provide/vod",
-        "name": "黄色仓库"
-    },
-    "yutu": {
-        "api": "https://yutuzy10.com/api.php/provide/vod",
-        "name": "玉兔资源"
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"
     }
   }
 }
